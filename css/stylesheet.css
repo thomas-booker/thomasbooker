@@ -1,0 +1,37 @@
+/* Standard elements */
+
+body {
+    background-color: #122b40;
+}
+h1 {
+    color: #9acfea;
+    text-align: justify;
+text-shadow: 3px 2px #1b6d85;
+    animation-name: h1Ani;
+    animation-duration: 4s;
+}
+
+
+/* Animations */
+
+@keyframes h1Ani {
+    from {
+        color: #080808;
+    }
+    to {
+        color: #122b40;
+    }
+}
+
+/* Bootstrap grid styles */
+
+#h1Box {
+    margin: 20px 0px 0px 0px;
+    box-shadow: 4px 4px 4px grey;
+    background-color: #204d74;
+    border-color: #9acfea;
+    border-width: 5px medium;
+}
+
+
+

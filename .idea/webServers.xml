@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7647af4b-1777-4387-b7c4-f323411f910b" name="thomasbooker.co.uk" url="http://ftp.thomasbooker.co.uk">
+        <fileTransfer host="ftp.thomasbooker.co.uk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
